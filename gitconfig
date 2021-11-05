@@ -1,0 +1,10 @@
+[user]
+	name = Ksals 
+	email = 2217210958@qq.com
+[alias]
+	graph = log --all --graph --decorate --oneline
+	last = log -1 HEAD
+	
+[core]
+	excludesfile = /home/kslas/.gitignore_global
+
